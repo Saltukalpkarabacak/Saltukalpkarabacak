@@ -19,7 +19,7 @@
 <hr>
 
 
-- 🌱 I’m currently learning Backend and DevOps technology
+- 🌱 I’m currently learning 'Backend' and 'DevOps' technologies
 
 - 👨‍💻 All of my projects are AVALIABLE at <b>[Here!](https://github.com/Saltukalpkarabacak?tab=repositories)</b>
 
