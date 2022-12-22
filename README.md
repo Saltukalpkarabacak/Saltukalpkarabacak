@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning Backend and DevOps technology
 
-- 👨‍💻 All of my projects are available at <b>[Here](https://github.com/Saltukalpkarabacak?tab=repositories)</b>
+- 👨‍💻 All of my projects are AVALIABLE at <b>[Here!](https://github.com/Saltukalpkarabacak?tab=repositories)</b>
 
 
 
